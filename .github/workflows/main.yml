@@ -38,6 +38,7 @@ jobs:
       with:
         tag: v${{ steps.current-time.outputs.formattedTime }}
         name: v${{ steps.current-time.outputs.formattedTime }}
+        bodyFile: README.md
         draft: false
         prerelease: false
         artifacts: "*.zip"
