@@ -1,8 +1,8 @@
-# Postal Mirror
+# Addon Name Mirror
 
-This is a mirror of Xinhuan's Postal
+This is a mirror of Author Name's Addon Name
 
-- [Curseforge URL](https://www.curseforge.com/wow/addons/postal)
+- [Curseforge URL](https://www.curseforge.com/wow/addons/addon-name)
 
 ----
 
