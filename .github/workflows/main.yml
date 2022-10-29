@@ -34,7 +34,7 @@ jobs:
       run: python main.py
       env:
         ADDON_NAME: postal
-        ADDON_ID: 0
+        ADDON_ID: 14502
         SCRAPER_API_KEY: ${{ env.SCRAPER_API_KEY }}
         CF_API_TOKEN: ${{ env.CF_API_TOKEN }}
 
